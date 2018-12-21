@@ -1,0 +1,13 @@
+{
+    "name": "Json/databucket",
+    "description": "Data Bucket which contains global functionalities over the application.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SATHISH KUMAR A",
+            "email": "sathishfreaks5@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
